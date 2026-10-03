@@ -72,3 +72,7 @@ Save/Copy actions headlessly — meant for a nested compositor.
 - It needs `wl-copy` (wl-clipboard) to copy, `notify-send` for the confirmation,
   and the compositor must offer `wlr-screencopy`, `wlr-layer-shell` and
   `wp-viewporter` (niri does).
+
+---
+
+This repository is published from the `lifeshot/` directory of [LifeBranch](https://github.com/TheWhyteWolf/LifeBranch), where development happens.

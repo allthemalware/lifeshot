@@ -75,4 +75,4 @@ Save/Copy actions headlessly — meant for a nested compositor.
 
 ---
 
-This repository is published from the `lifeshot/` directory of [LifeBranch](https://github.com/TheWhyteWolf/LifeBranch), where development happens.
+This repository is published from the `lifeshot/` directory of [LifeBranch](https://github.com/allthemalware/LifeBranch), where development happens.
